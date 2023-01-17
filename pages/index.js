@@ -210,7 +210,7 @@ export default function Home() {
               quality throughout the development process. Additionally, I was
               also responsible for testing the game and ensuring that it met the
               studio's standards. I am proud to have been a part of the
-              development of Temple Run, and I am looking forward to its
+              development of an upcomming mobile game, and I am looking forward to its
               release. I am confident that the game will be a success and that
               players will enjoy it.
             </p>
