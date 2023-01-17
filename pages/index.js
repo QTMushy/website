@@ -200,7 +200,7 @@ export default function Home() {
             </h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               As a Software Engineer at the game studio, I had the opportunity
-              to work on the development of Temple Run, an upcoming mobile game
+              to work on the development an upcoming mobile game
               set to launch in the near future. I was part of a team of
               developers who worked together to create a fun and engaging game
               experience for players. My role in the development process was to
