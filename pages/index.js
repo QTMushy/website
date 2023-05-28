@@ -124,8 +124,7 @@ export default function Home() {
             </h3>
             <p className="text-md py-5 leading-8 text-gray-80 md:text-xl dark:text-white">
               Welcome to my personal website! Here, you can find out more about
-              my experience as a software developer and the projects I have
-              worked on.
+              my experience as a software developer.
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-200 hover:opacity-100 transition duration-300 ease-in-out">
               <a href="malhot91@uwindsor.ca">
@@ -239,24 +238,6 @@ export default function Home() {
             <Terminal lines={experienceLines} delay={300} white/>
             </div>
           </div>
-          <h3 className="text-2xl py-2 text-teal-600 font-medium md:text-6xl max-w-lg mx-auto">
-            Teaching Assistant
-          </h3>
-          <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-            I am serving as a Teaching Assistant for the Data Structures and
-            Algorithms course at University of Windsor. In this role, I
-            have been responsible for teaching lab sections of up to 25
-            students, providing assistance and guidance to students, and helping
-            to facilitate course material. I have also graded assignments, held
-            office hours to answer student questions, and held review sessions
-            prior to exams. My experience as a Teaching Assistant has enabled me
-            to develop my skills in communication, problem-solving, and
-            time-management. My experience has also given me a stronger
-            understanding of the Data Structures and Algorithms course material,
-            as well as the ability to explain difficult concepts in clear and
-            concise terms. I have also gained valuable knowledge in the field of
-            teaching and learning through my experience as a Teaching Assistant.
-          </p>
         </section>
       </main>
     </div>
